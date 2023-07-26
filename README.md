@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaiman Singh Guliani</h1>
 <h3 align="center">A Coding Enthusiast in the field of AI & Machine Learning from India.</h3>
-<img align = “ right “ width = 400 alt= “ coding ” src = “https://github.com/JaimanSingh/JaimanSingh/blob/main/IMG_4436.jpg "
-
+<img align = “ right “ width = 400 alt= “ coding ” src = " ![IMG_4366](https://github.com/JaimanSingh/JaimanSingh/assets/123560972/dfac62e7-bbdf-47a6-8076-9bf51e20ab86)
+"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimansingh&label=Profile%20views&color=0e75b6&style=flat" alt="jaimansingh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaimansingh" alt="jaimansingh" /></a> </p>

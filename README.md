@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaimansingh" alt="jaimansingh" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, AI & Machine Learning.**
+- 🌱 I’m currently learning **DSA, Web Development & Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JaimanSingh](https://github.com/JaimanSingh)
 

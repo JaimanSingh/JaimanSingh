@@ -1,3 +1,7 @@
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fumenzi&countColor=%23263759&style=default" alt="visitor_badge">
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=800&size=33&pause=1000&color=F7F7F7&width=435&lines=%24whoami+;Jaiman+Singh+Guliani" alt="Typing SVG" /></a>
+</h1>
 <h1 align="center">Hey There 👋, I'm Jaiman Singh Guliani</h1>
 <h3 align="center">A Coding Enthusiast in the field of AI & Machine Learning from India.</h3
 <img align="right" width="400" alt="coding" src="[https://github.com/JaimanSingh/JaimanSingh/raw/main/assets/123560972/26242b6d-c5a1-4b38-84ce-9daf69f89dac/IMG_4366.jpg](https://github.com/JaimanSingh/JaimanSingh/blob/main/IMG_4436.jpg)">
